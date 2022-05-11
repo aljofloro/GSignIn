@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GSignIn</string>
+    <string name="txt_greetings">Bienvenido</string>
+    <string name="txt_GSignIn">Acceder con Google</string>
+    <string name="txt_id">ID</string>
+    <string name="txt_name">Nombre</string>
+    <string name="txt_email">email</string>
+    <string name="txt_logout">Cerrar sesión</string>
+</resources>
